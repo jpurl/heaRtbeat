@@ -8,7 +8,7 @@ Maintainer: Justin Purl <justin.purl@gmail.com>, Samuel Kaminsky
     <samuel.e.kaminsky@gmail.com>
 Description: Transforms survey data into upvotes/downvotes using Heartbeat
     Analysis.
-License: GPL (>= 3)
+License: GPL (>= 3) + file LICENSE
 URL: https://github.com/jpurl/heaRtbeat
 Depends: 
     R (>= 3.6.0)
