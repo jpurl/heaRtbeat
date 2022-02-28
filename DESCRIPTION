@@ -7,7 +7,13 @@ Author: Justin Purl <justin.purl@gmail.com>, Samuel Kaminsky
 Maintainer: Justin Purl <justin.purl@gmail.com>, Samuel Kaminsky
     <samuel.e.kaminsky@gmail.com>
 Description: Transforms survey data into upvotes/downvotes using Heartbeat
-    Analysis.
+    Analysis. Heartbeat analysis was designed to shift reporting survey
+    statistics from the percent favorable metric to the
+    number of respondents answering the question more favorably
+    than other questions on the same survey, called an up-vote.
+    Heartbeat analysis was awarded the Wiley Award
+    for Excellence in Survey Research by the
+    Society for Industrial Organizational Psychology in 2021.
 License: GPL (>= 3) + file LICENSE
 URL: https://github.com/jpurl/heaRtbeat
 Depends: 
